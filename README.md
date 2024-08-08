@@ -72,20 +72,31 @@ Ventajas de utilizar los recursos de Figma
 Con buenos recursos de Figma a tu alcance, puedes realizar estas tareas:
 
 -Dale forma a tus ideas sin perder la inspiración
+
 -Crea plantillas y estructuras alámbricas en cuestión de minutos
+
 -Resolver tareas de manera eficiente
+
 -Ayuda en la creación de trabajos detallados.
+
 -Enciende la imaginación
+
 -Elimina errores
+
 -Sáltate algunas etapas de las rutinas de diseño y desarrollo.
+
 -Aumenta la rentabilidad de un proyecto y monetice ideas rápidamente
 
 Entonces, las principales ventajas de utilizar recursos gratuitos de Figma son:
 
 -Flexibilidad y agilidad
+
 -Escalabilidad rápida y eficiente
+
 -Alta productividad
+
 -Minimización de errores
+
 -Rentabilidad
 
 Creación de interfaces actualizadas que cumplan con los últimos estándares, como capacidad de respuesta, compatibilidad con dispositivos móviles y accesibilidad.
