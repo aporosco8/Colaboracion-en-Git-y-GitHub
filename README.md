@@ -44,15 +44,15 @@ Gracias a la presencia de restricciones, tenemos la posibilidad de redimensionar
 
 **Contribuciones**: Figma es una herramienta de diseño y prototipado colaborativa en tiempo real que permite a equipos trabajar juntos de manera eficiente. Sus principales casos de uso incluyen:
 
-*Diseño de Interfaces de Usuario (UI):* Figma facilita la creación de interfaces atractivas y funcionales para aplicaciones web y móviles, permitiendo a los diseñadores iterar rápidamente y recibir retroalimentación en tiempo real.
+***Diseño de Interfaces de Usuario (UI):*** Figma facilita la creación de interfaces atractivas y funcionales para aplicaciones web y móviles, permitiendo a los diseñadores iterar rápidamente y recibir retroalimentación en tiempo real.
 
-*Prototipado Interactivo:* Los usuarios pueden crear prototipos interactivos de alta fidelidad que simulan la experiencia del usuario final, ayudando a probar y validar conceptos antes de la implementación.
+***Prototipado Interactivo:*** Los usuarios pueden crear prototipos interactivos de alta fidelidad que simulan la experiencia del usuario final, ayudando a probar y validar conceptos antes de la implementación.
 
-*Colaboración en Equipo:* Figma permite a múltiples diseñadores y partes interesadas trabajar simultáneamente en el mismo archivo, facilitando la colaboración y reduciendo el tiempo de desarrollo.
+***Colaboración en Equipo:*** Figma permite a múltiples diseñadores y partes interesadas trabajar simultáneamente en el mismo archivo, facilitando la colaboración y reduciendo el tiempo de desarrollo.
 
-*Documentación y Especificaciones:* Los equipos de diseño pueden generar documentación detallada y especificaciones de diseño que son fácilmente accesibles para desarrolladores y otros miembros del equipo, asegurando una implementación precisa.
+***Documentación y Especificaciones:*** Los equipos de diseño pueden generar documentación detallada y especificaciones de diseño que son fácilmente accesibles para desarrolladores y otros miembros del equipo, asegurando una implementación precisa.
 
-*Revisión y Feedback:* Los revisores pueden agregar comentarios directamente en los diseños, mejorando la comunicación y acelerando el proceso de revisión y aprobación.
+***Revisión y Feedback:*** Los revisores pueden agregar comentarios directamente en los diseños, mejorando la comunicación y acelerando el proceso de revisión y aprobación.
 Estos casos de uso hacen de Figma una herramienta poderosa y versátil para cualquier equipo de diseño.
 
 ### Ana Laura Gaspar
@@ -71,21 +71,23 @@ Ventajas de utilizar los recursos de Figma
 
 Con buenos recursos de Figma a tu alcance, puedes realizar estas tareas:
 
-Dale forma a tus ideas sin perder la inspiración
-Crea plantillas y estructuras alámbricas en cuestión de minutos
-Resolver tareas de manera eficiente
-Ayuda en la creación de trabajos detallados.
-Enciende la imaginación
-Elimina errores
-Sáltate algunas etapas de las rutinas de diseño y desarrollo.
-Aumenta la rentabilidad de un proyecto y monetice ideas rápidamente
+-Dale forma a tus ideas sin perder la inspiración
+-Crea plantillas y estructuras alámbricas en cuestión de minutos
+-Resolver tareas de manera eficiente
+-Ayuda en la creación de trabajos detallados.
+-Enciende la imaginación
+-Elimina errores
+-Sáltate algunas etapas de las rutinas de diseño y desarrollo.
+-Aumenta la rentabilidad de un proyecto y monetice ideas rápidamente
+
 Entonces, las principales ventajas de utilizar recursos gratuitos de Figma son:
 
-Flexibilidad y agilidad
-Escalabilidad rápida y eficiente
-Alta productividad
-Minimización de errores
-Rentabilidad
+-Flexibilidad y agilidad
+-Escalabilidad rápida y eficiente
+-Alta productividad
+-Minimización de errores
+-Rentabilidad
+
 Creación de interfaces actualizadas que cumplan con los últimos estándares, como capacidad de respuesta, compatibilidad con dispositivos móviles y accesibilidad.
 Las bibliotecas mejoradas y ampliadas continuamente con recursos y complementos de Figma ofrecen una base sólida para crear proyectos de manera rápida, eficiente y sin errores, lo que reduce la carga de las tareas triviales y brinda a los usuarios tiempo adicional para concentrarse en tareas más complejas. Mejoran el flujo de trabajo y amplifican los resultados. Sin embargo, el uso de material prefabricado requiere precaución.
 
