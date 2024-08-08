@@ -6,12 +6,16 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 ### Solange Céspedes
 **Rol**: 
 **Investigación sobre las funcionalidades principales de Figma**
+
 **Funcionalidades principales de Figma**
+
 Figma es una herramienta de prototipado web y editor de gráficos vectorial, que a diferencia de las otras herramientas, se aloja en la web.
 Además, una de las características que tiene Figma es que, al estar basada en el navegador, puedes compartir el proyecto con tu equipo y hacer modificaciones en la misma mesa de trabajo.
 Aunque Figma funcione en la nube, también puedes descargar la aplicación y alojarla en tu ordenador.
-Las mejores características de Figma
+
+Las mejores características de Figma:
 Todo lo que harías con cinco o seis herramientas diferentes, con Figma lo puedes hacer en la misma aplicación:
+
 1. Interfaz 
 Dispone de una barra de herramientas muy práctica que proporciona todas las herramientas útiles para los diseñadores de contenidos web
 
@@ -37,6 +41,7 @@ Gracias a la presencia de restricciones, tenemos la posibilidad de redimensionar
 
 ### Andrea Orosco
 **Rol** Investigación sobre los casos de uso de Figma
+
 **Contribuciones**: Figma es una herramienta de diseño y prototipado colaborativa en tiempo real que permite a equipos trabajar juntos de manera eficiente. Sus principales casos de uso incluyen:
 
 *Diseño de Interfaces de Usuario (UI):* Figma facilita la creación de interfaces atractivas y funcionales para aplicaciones web y móviles, permitiendo a los diseñadores iterar rápidamente y recibir retroalimentación en tiempo real.
@@ -51,15 +56,19 @@ Gracias a la presencia de restricciones, tenemos la posibilidad de redimensionar
 Estos casos de uso hacen de Figma una herramienta poderosa y versátil para cualquier equipo de diseño.
 
 ### Ana Laura Gaspar
-Rol: Investigacion sobre recursos y tutoriales para aprender Figma
+**Rol**: Investigacion sobre recursos y tutoriales para aprender Figma
+
 Recursos:
 La creación de prototipos nativos, la colaboración en tiempo real, la transferencia sencilla, las tecnologías basadas en la nube y en el navegador y un sistema de componentes diverso son las razones por las que millones de personas se han pasado a Figma. Se ha convertido en una de las aplicaciones web para diseño de interfaces más populares entre los artistas digitales y presta servicios a 4 millones de usuarios. Esto es bastante impresionante en comparación con las alternativas Figma bien establecidas . Como cualquier programa de diseño, dominar Figma requiere tiempo y esfuerzo. La buena noticia es que Figma proporciona una gran cantidad de recursos de alta calidad para ayudar a ponerse al día rápidamente.
 
 Figma se ha ganado su lugar en el mercado por muchos motivos. Tiene numerosas herramientas útiles y funciones fuera de línea para simplificar y acelerar el flujo de trabajo. La ventaja más significativa radica en una comunidad de rápido crecimiento cuyos miembros regalan periódicamente recursos gráficos, complementos y conjuntos de herramientas para ayudar a otros, lo que aumenta la popularidad y la demanda de Figma.
+
 Pros y contras de utilizar los recursos de Figma
+
 Los recursos de Figma vienen en todas las formas y tamaños: estructuras alámbricas, maquetas de dispositivos, plantillas de sitios web, diseños de aplicaciones móviles, kits de UX, íconos e incluso ilustraciones y animaciones. Algunos están disponibles a través de pequeños proyectos web dirigidos por personas que alaban la ideología de “compartir es cuidar”, mientras que otro material se reúne en bibliotecas que unen a miles de personas de diferentes partes del mundo. Considera los pros y los contras de utilizar estos recursos en tus flujos de trabajo.
 
 Ventajas de utilizar los recursos de Figma
+
 Con buenos recursos de Figma a tu alcance, puedes realizar estas tareas:
 
 Dale forma a tus ideas sin perder la inspiración
@@ -86,7 +95,9 @@ Algunos de estos recursos pueden no ser confiables. No todo el contenido de Figm
 Incluso si el directorio Figma solo tiene activos libres de regalías, sigue siendo vital verificar las licencias para ver si puedes usar recursos en proyectos comerciales.
 Algunos complementos y recursos de la interfaz de usuario pueden resultar complicados de implementar. Por ejemplo, la denominación de los componentes puede resultar engañosa. Por lo tanto, potencialmente puede perder mucho de su valioso tiempo si lo maneja correctamente.
 Los recursos gratuitos generalmente no ofrecen apoyo por parte de los creadores. Como regla general, los propietarios se enfrentan a grandes problemas; Los problemas y errores menores suelen pasar desapercibidos.
+
 El material Figma ya preparado ofrece numerosos beneficios que, en un mundo acelerado, son más relevantes que nunca. Acelera la rutina, simplifica el flujo de trabajo, mejora los proyectos y proporciona herramientas de calidad para resolver problemas y crear productos de alto nivel. Sin embargo, aún se debe actuar con cautela porque es necesario mitigar algunas deficiencias.
+
 Tutorial
 PASO 1: Crear un archivo nuevo
 Si ya tienes Figma descargado o abierto en web, en la esquina superior izquierda verás un icono de un folio que pone “Drafts”, este icono es el que te interesa, debes ponerte encima de él y te aparecerá un signo de más, en el que vas a clicar y seguidamente le das clic a “Archive file” y vualá ya tienes tu archivo nuevo abierto.
