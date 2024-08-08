@@ -112,8 +112,10 @@ Como decía, puedes escoger el formato que más te interese o si ya tienes las d
 Si quieres poner más rápidamente las dimensiones, puedes clicar y desplazar y seguidamente en el panel de trabajo de la derecha te aparecerá una sección que se llama Frame, en la que puedes poner en la “W” el ancho y en la “H” el alto y así tener los píxeles exactos.
 Cuando ya tienes tu frame creado puedes ver en el lateral izquierdo que pone “layers” y dentro te aparece la capa de “Frame 1”, todo lo que pongas en el lienzo tendrá que estar dentro de esta capa para que se muestre al visualizar el trabajo, pero de esto hablaremos más adelante.
 Si prefieres ponerle otro nombre al frame lo puedes cambiar haciendo doble clic sobre él.
+
 PASO 3: Cambiar el nombre
 Antes de que se nos olvide vamos a cambiar el nombre al proyecto. Si te fijas arriba en el centro pone “Drafts / Untitled”, para cambiar el título debes hacer clic sobre “Untitled” y directamente escribir el nombre de tu proyecto.Puedes poner “diseño web 1”, por ejemplo.
+
 PASO 4: Poner guías
 Antes de empezar a trabajar con el diseño de la web debes poner guías en el frame para diseñar dentro de ellas.Normalmente nosotros ponemos una a los 1400px y la otra a los 1200px. Los 1400px de máximo, porque opinamos que es una buena medida para que la web funcione en todas las pantallas.
 Para poner estas guías hacemos un rectángulo seleccionando el cuarto icono del menú superior izquierdo, el cuadrado. Clicamos y deslizamos hasta obtener el ancho que deseamos o cambiamos el ancho en el panel de la derecha para ir más rápidos.Una vez tengamos el rectángulo hecho lo centramos en el frame con la ayuda de las guías inteligentes.
